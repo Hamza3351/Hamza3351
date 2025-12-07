@@ -35,14 +35,23 @@
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
-  <img src="https://wakatime.com/badge/user/abc123.svg" alt="Wakatime">
 </p>
 <br>
 
 ## 🎓 Certifications
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Coursera-Google cybersecurity analyst?style=for-the-badge&logo=coursera&logoColor=white"/>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/WiFi%20Security-SSDP-FF8800?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="WiFi Security & Hacking Techniques"/>
+  <img src="https://img.shields.io/badge/Foundations%20of%20Cybersecurity-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Google Foundations of Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Manage%20Security%20Risks-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Google Manage Security Risks"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HSK2(Chinese)-TANG-red?style=for-the-badge&logo=education&logoColor=white" alt="HSK-2"/>
+  <img src="https://img.shields.io/badge/HSK1(Chinese)-TANG-orange?style=for-the-badge&logo=education&logoColor=white" alt="HSK-1"/>
+  <img src="https://img.shields.io/badge/SAP%20MM%20%26%20PP-ExD-007396?style=for-the-badge&logo=sap&logoColor=white" alt="SAP MM & PP"/>
+  <img src="https://img.shields.io/badge/Web%20Engineering-Hazza%20Institute-1E88E5?style=for-the-badge&logo=html5&logoColor=white" alt="Web Engineering"/>
 </p>
 
 <br>
@@ -153,7 +162,12 @@ Here are some of my recent AI & agentic workflow builds:
 
 ## 📌 Pinned Repos
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza3351&repo=ai-job-analyzer&theme=algolia" />
+  <a href="https://github.com/Hamza3351/AI-Job-Description-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza3351&repo=AI-Job-Description-Analyzer&theme=algolia" />
+  </a>
+  <a href="https://github.com/Hamza3351/LinkedIn-Post-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza3351&repo=LinkedIn-Post-Agent&theme=algolia" />
+  </a>
 </p>
 
 <br>
