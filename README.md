@@ -161,14 +161,12 @@ Here are some of my recent AI & agentic workflow builds:
 <br>
 
 ## 📌 Pinned Repos
-<p align="center">
-  <a href="https://github.com/Hamza3351/AI-Job-Description-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza3351&repo=AI-Job-Description-Analyzer&theme=algolia" />
-  </a>
-  <a href="https://github.com/Hamza3351/LinkedIn-Post-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza3351&repo=LinkedIn-Post-Agent&theme=algolia" />
-  </a>
-</p>
+
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=AI-Job-Description-Analyzer&layout=compact&theme=buefy)](https://github.com/Hamza3351/AI-Job-Description-Analyzer)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=LinkedIn-Post-Agent&layout=compact&theme=buefy)](https://github.com/Hamza3351/LinkedIn-Post-Agent)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=EuroConnectTelecoms&layout=compact&theme=buefy)](https://github.com/Hamza3351/EuroConnectTelecoms)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=Simon-Memory-Game&layout=compact&theme=buefy)](https://github.com/Hamza3351/Simon-Memory-Game)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=Hospital-Management-System&layout=compact&theme=buefy)](https://github.com/Hamza3351/Hospital-Management-System)
 
 <br>
 <p align="center">
