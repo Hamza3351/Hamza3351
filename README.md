@@ -96,8 +96,8 @@ Below are my tools grouped into clean categories with readable text badges:
 
 ## 🤝 Connect with Me
 <p align="center">
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
-<a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href="https://hamzique.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/muhammad-hamza-a9b953325/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:m.hamzanfic@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 </p>
 
