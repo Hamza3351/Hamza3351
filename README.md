@@ -10,6 +10,13 @@
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 </p>
 
+<!-- Animated GitHub Counters -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hamza3351&style=for-the-badge" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/Hamza3351?label=Followers&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Hamza3351?label=Stars&style=for-the-badge" alt="Stars"/>
+</p>
+
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
@@ -50,8 +57,6 @@ Here are some of my recent AI & agentic workflow builds:
 ## 🧠 Tech Stack  
 Below are my tools grouped into clean categories with readable text badges:
 
----
-
 ### 🧠 AI / Machine Learning
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -63,8 +68,6 @@ Below are my tools grouped into clean categories with readable text badges:
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
----
-
 ### 🔍 Computer Vision, NLP & Agentic Workflows
 <p align="left">
 <img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logo=google&logoColor=white"/>
@@ -73,16 +76,12 @@ Below are my tools grouped into clean categories with readable text badges:
 <img src="https://img.shields.io/badge/LangChain%20%2F%20LLMs-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 </p>
 
----
-
 ### 🚀 Deployment & DevOps
 <p align="left">
 <img src="https://img.shields.io/badge/Deployment-4A90E2?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
----
 
 ### 📱 Mobile Development
 <p align="left">
@@ -91,15 +90,11 @@ Below are my tools grouped into clean categories with readable text badges:
 <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
----
-
 ### 🏢 ERP / Business Systems
 <p align="left">
 <img src="https://img.shields.io/badge/ERPNext-0096D6?style=for-the-badge&logo=frappe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
 </p>
-
----
 
 ### 🔐 Cybersecurity & Pentesting
 <p align="left">
@@ -143,5 +138,3 @@ Below are my tools grouped into clean categories with readable text badges:
 <a href="https://www.linkedin.com/in/muhammad-hamza-a9b953325/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:m.hamzanfic@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 </p>
-
----
