@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Aditya Vikram Singh Banner"></p>
+<p><img src="https://github.com/Hamza3351/Hamza3351/blob/main/banner.png" alt="Muhammad Hamza Banner"></p>
 <h2>👋 Hey there! I’m Aditya</h2><p></p>
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
