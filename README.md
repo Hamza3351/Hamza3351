@@ -11,7 +11,6 @@
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 </p>
 
-<!-- Animated GitHub Counters -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hamza3351&style=for-the-badge" alt="Views"/>
   <img src="https://img.shields.io/github/followers/Hamza3351?label=Followers&style=for-the-badge" alt="Followers"/>
@@ -43,9 +42,12 @@
 
 Here are some of my recent AI & agentic workflow builds:
 
-- 🔹 **AI Job Match Analyzer** — Matches resumes to job descriptions using LLMs & embeddings  
-- 🔹 **LinkedIn Post Agent** — Generates viral, structured, optimized LinkedIn posts  
-
+| Project | Description | Stack |
+|--------|-------------|--------|
+| **AI Job Analyzer** | Analyzes job descriptions & matches your resume | Llama 3.3, Groq, NLP |
+| **LinkedIn Post Agent** | LinkedIn post generator that creates 5 engaging posts | Llama 3.3, Groq, Agentic Workflow |
+ 
+\
 ➡️ *Portfolio:* https://hamzique.vercel.app/  
 ➡️ *All repositories:* https://github.com/Hamza3351  
 
@@ -126,6 +128,13 @@ Below are my tools grouped into clean categories with readable text badges:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hamza3351&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hamza3351&layout=compact&langs_count=6&theme=algolia"/> 
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza3351&theme=tokyonight" />
+</p>
+
+
+
 
 <br>
 <p align="center">
