@@ -57,8 +57,7 @@ Here are some of my recent AI & agentic workflow builds:
 </p>
 <br>
 
-## 🧠 Tech Stack  
-Below are my tools grouped into clean categories with readable text badges:
+## 🛠️ Tech Stack  
 
 ### 🧠 AI / Machine Learning
 <p align="left">
