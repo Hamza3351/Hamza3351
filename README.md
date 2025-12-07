@@ -4,26 +4,50 @@
 
 <h2 align="center">👋 Hey there! I'm Muhammad Hamza</h2>
 
+<h3 align="center">AI Engineer • Agentic Workflow Builder • Automation Specialist</h3>
+
 <p align="center">
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 </p>
 
----
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+</p>
+<br>
 
 ## 👨🏻‍💻 About Me
-
 
 💡 I love exploring AI, agentic workflows & automation.<br>
 🎓 Currently learning advanced LLM engineering & practical AI deployment.<br>
 🌱 On track to become an end-to-end AI Workflow Engineer (LLMs → Agents → Deployment).<br>
-✍️ In my free time, I experiment with agentic apps, read tech blogs & build mini-projects.<br>
-💬 Ask me about AI, agent automation, workflow engineering, or building client-ready tools.<br>
+✍️ I experiment with agentic apps, read tech blogs & build mini-projects.<br>
+💬 Ask me about AI, automation, workflow engineering, or building client-ready tools.<br>
 ✉️ Reach me at: <a href="mailto:m.hamzanfic@gmail.com">m.hamzanfic@gmail.com</a>
 
----
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+</p>
+<br>
 
-## 🧠 Tech Stack
+## 🚀 Featured Projects
 
+Here are some of my recent AI & agentic workflow builds:
+
+- 🔹 **AI Job Match Analyzer** — Matches resumes to job descriptions using LLMs & embeddings  
+- 🔹 **LinkedIn Post Agent** — Generates viral, structured, optimized LinkedIn posts  
+
+➡️ *Portfolio:* https://hamzique.vercel.app/  
+➡️ *All repositories:* https://github.com/Hamza3351  
+
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+</p>
+<br>
+
+## 🧠 Tech Stack  
 Below are my tools grouped into clean categories with readable text badges:
 
 ---
@@ -44,7 +68,7 @@ Below are my tools grouped into clean categories with readable text badges:
 ### 🔍 Computer Vision, NLP & Agentic Workflows
 <p align="left">
 <img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-CC0000?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-CC0000?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Agentic%20Workflows-000000?style=for-the-badge&logo=robot&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain%20%2F%20LLMs-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 </p>
@@ -53,7 +77,7 @@ Below are my tools grouped into clean categories with readable text badges:
 
 ### 🚀 Deployment & DevOps
 <p align="left">
-<img src="https://img.shields.io/badge/Model%20Deployment-4A90E2?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deployment-4A90E2?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -81,18 +105,37 @@ Below are my tools grouped into clean categories with readable text badges:
 <p align="left">
 <img src="https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/WiFi%20Security-FF8800?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali%20Linux%20Tools-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Tools-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Analytics
+<br>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hamza3351&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hamza3351&layout=compact&langs_count=6&theme=algolia"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+</p>
+<br>
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
----
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+</p>
+<br>
+
+## 📊 GitHub Analytics 
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hamza3351&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hamza3351&layout=compact&langs_count=6&theme=algolia"/> 
+</p>
+
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+</p>
+<br>
 
 ## 🤝 Connect with Me
 <p align="center">
