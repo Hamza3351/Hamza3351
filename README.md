@@ -35,6 +35,19 @@
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+  <img src="https://wakatime.com/badge/user/abc123.svg" alt="Wakatime">
+</p>
+<br>
+
+## 🎓 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Coursera-Google cybersecurity analyst?style=for-the-badge&logo=coursera&logoColor=white"/>
+</p>
+
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
 </p>
 <br>
 
@@ -129,11 +142,19 @@ Here are some of my recent AI & agentic workflow builds:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza3351&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza3351&theme=algolia" />
 </p>
 
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="90%">
+</p>
+<br>
 
-
+## 📌 Pinned Repos
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza3351&repo=ai-job-analyzer&theme=algolia" />
+</p>
 
 <br>
 <p align="center">
