@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+  <img alt="Dance" src="https://github.com/Hamza3351/Hamza3351/blob/main/coding.gif">
 </p>
 
 <p align="center">
