@@ -68,6 +68,7 @@ Here are some of my recent AI & agentic workflow builds:
 |--------|-------------|--------|
 | **AI Job Analyzer** | Analyzes job descriptions & matches your resume | Llama 3.3, Groq, NLP |
 | **LinkedIn Post Agent** | LinkedIn post generator that creates 5 engaging posts | Llama 3.3, Groq, Agentic Workflow |
+| **Youtube Video Summarizer** | YouTube summarization tool that generates Short Summaries, Key Bullet Points and Actionable Insights | Llama 3.3, Groq, Agentic Workflow |
  
 \
 ➡️ *Portfolio:* https://hamzique.vercel.app/  
@@ -162,6 +163,7 @@ Here are some of my recent AI & agentic workflow builds:
 
 ## 📌 Pinned Repos
 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=Youtube-Video-Summarizer&layout=compact&theme=buefy)](https://github.com/Hamza3351/Youtube-Video-Summarizer)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=AI-Job-Description-Analyzer&layout=compact&theme=buefy)](https://github.com/Hamza3351/AI-Job-Description-Analyzer)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=LinkedIn-Post-Agent&layout=compact&theme=buefy)](https://github.com/Hamza3351/LinkedIn-Post-Agent)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=EuroConnectTelecoms&layout=compact&theme=buefy)](https://github.com/Hamza3351/EuroConnectTelecoms)
