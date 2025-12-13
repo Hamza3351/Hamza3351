@@ -66,9 +66,10 @@ Here are some of my recent AI & agentic workflow builds:
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| **AI Job Analyzer** | Analyzes job descriptions & matches your resume | Llama 3.3, Groq, NLP |
-| **LinkedIn Post Agent** | LinkedIn post generator that creates 5 engaging posts | Llama 3.3, Groq, Agentic Workflow |
-| **Youtube Video Summarizer** | YouTube summarization tool that generates Short Summaries, Key Bullet Points and Actionable Insights | Llama 3.3, Groq, Agentic Workflow |
+| **AI Meme Generator** | Cloud-based meme generator that creates viral-ready images with classic top/bottom captions using Stable Diffusion XL | Stable Diffusion XL, HuggingFace Inference API, Streamlit |
+| **AI Job Analyzer** | Analyzes job descriptions, extracts key skills, and identifies resume gaps for better job matching | Llama 3.3, Groq, NLP |
+| **LinkedIn Post Agent** | Generates 5 high-quality LinkedIn posts with hooks, structured content, and strong CTAs | Llama 3.3, Groq, Agentic Workflow |
+| **YouTube Video Summarizer** | Summarizes YouTube videos into short summaries, key bullet points, and actionable insights | Llama 3.3, Groq, Agentic Workflow |
  
 \
 ➡️ *Portfolio:* https://hamzique.vercel.app/  
@@ -163,6 +164,7 @@ Here are some of my recent AI & agentic workflow builds:
 
 ## 📌 Pinned Repos
 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=AI-Meme-Generator&layout=compact&theme=buefy)](https://github.com/Hamza3351/AI-Meme-Generator)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=Youtube-Video-Summarizer&layout=compact&theme=buefy)](https://github.com/Hamza3351/Youtube-Video-Summarizer)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=AI-Job-Description-Analyzer&layout=compact&theme=buefy)](https://github.com/Hamza3351/AI-Job-Description-Analyzer)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=Hamza3351&repo=LinkedIn-Post-Agent&layout=compact&theme=buefy)](https://github.com/Hamza3351/LinkedIn-Post-Agent)
