@@ -137,7 +137,7 @@ Here are some of my recent AI & agentic workflow builds:
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
 <br>
