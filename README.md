@@ -72,7 +72,6 @@ Here are some of my recent AI & agentic workflow builds:
 | **YouTube Video Summarizer** | Summarizes YouTube videos into short summaries, key bullet points, and actionable insights | Llama 3.3, Groq, Agentic Workflow |
  
 \
-➡️ *Portfolio:* Coming Soon 
 ➡️ *All repositories:* https://github.com/Hamza3351  
 
 <br>
